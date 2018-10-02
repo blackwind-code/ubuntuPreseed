@@ -6,5 +6,5 @@ Scripts required for auto-installation
   
 ## preseedStable02.cfg
 > This Preseed file is for a computer having problem with grub
-> Ex) when grub-install stops/freezes  in auto install, use this preseed file to overcome (detour)
+> Example. when grub-install stops/freezes  in auto install, use this preseed file to overcome (detour)
 > This is for Ubuntu 18 or 16
